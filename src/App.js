@@ -1,7 +1,7 @@
 
 import './App.css';
-// import {FontAwesomeIcon} from '@fontawesome/react-FontAwesome';
-// import {faAirbnb} from '@fontawesome/free-brands-svg-icon';
+import {FontAwesomeIcon} from '@fontawesome/react-FontAwesome';
+import {faAirbnb} from '@fontawesome/free-brands-svg-icon';
 
 function App() {
   return (
